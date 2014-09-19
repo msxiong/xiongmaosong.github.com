@@ -1,0 +1,9 @@
+
+
+在红米手机下，对一个dom元素设置了圆角border-radius:10px;background:#fff。在红米下，四个圆角外面会溢出白色的背景。蛋疼。
+
+
+解决方法：
+
+在dom的样式上加上 background-clip:padding-box;好吧，问题解决了，原因不明，只能说红米是奇葩。
+
