@@ -1,0 +1,8 @@
+<div  id="person-audio">
+   		<audio src="sound/hanjia.mp3"></audio>
+        <audio src=""></audio>
+        <audio src=""></audio>
+        <audio src=""></audio>
+        <audio src=""></audio>
+   </div>   
+   这一段内容在上述机型是占内容区的
