@@ -1,0 +1,2 @@
+苹果设备有transform:rote属性时，上面有遮罩层时的bug,有该属性的元素会穿破遮罩层，
+解决办法：transform:translate3D(x,x,x)根据具体的情况来写
