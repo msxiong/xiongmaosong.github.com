@@ -1,0 +1,3 @@
+
+不让ios系统下video标签自动全屏
+x-webkit-airplay="allow" webkit-playsinline="yes" 
